@@ -1,5 +1,6 @@
 ![Logo of the project](http://logo_link)
 
+
 ## Name_of_the_project
 
 ... Description
